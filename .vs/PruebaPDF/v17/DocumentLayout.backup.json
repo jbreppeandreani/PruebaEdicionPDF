@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|c:\\users\\breppe_j\\documents\\proyectos\\pruebapdf\\pruebaedicionpdf\\pruebapdf\\repositorio\\irepositorio\\ilicenciatario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|solutionrelative:pruebapdf\\repositorio\\irepositorio\\ilicenciatario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|c:\\users\\breppe_j\\documents\\proyectos\\pruebapdf\\pruebaedicionpdf\\pruebapdf\\repositorio\\irepositorio\\iilustrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|solutionrelative:pruebapdf\\repositorio\\irepositorio\\iilustrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|c:\\users\\breppe_j\\documents\\proyectos\\pruebapdf\\pruebaedicionpdf\\pruebapdf\\repositorio\\ilustradordepdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|solutionrelative:pruebapdf\\repositorio\\ilustradordepdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|c:\\users\\breppe_j\\documents\\proyectos\\pruebapdf\\pruebaedicionpdf\\pruebapdf\\modelos\\documentopdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|solutionrelative:pruebapdf\\modelos\\documentopdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|c:\\users\\breppe_j\\documents\\proyectos\\pruebapdf\\pruebaedicionpdf\\pruebapdf\\controllers\\editorpdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|solutionrelative:pruebapdf\\controllers\\editorpdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|c:\\users\\breppe_j\\documents\\proyectos\\pruebapdf\\pruebaedicionpdf\\pruebapdf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|solutionrelative:pruebapdf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|c:\\users\\breppe_j\\documents\\proyectos\\pruebapdf\\pruebaedicionpdf\\pruebapdf\\controllers\\editorhtmlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|solutionrelative:pruebapdf\\controllers\\editorhtmlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|c:\\users\\breppe_j\\documents\\proyectos\\pruebapdf\\pruebaedicionpdf\\pruebapdf\\modelos\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1CCF2A-FD66-416D-B3AC-AC028EC3EBE2}|PruebaPDF\\PruebaPDF.csproj|solutionrelative:pruebapdf\\modelos\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILicenciatario.cs",
+              "DocumentMoniker": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Repositorio\\IRepositorio\\ILicenciatario.cs",
+              "RelativeDocumentMoniker": "PruebaPDF\\Repositorio\\IRepositorio\\ILicenciatario.cs",
+              "ToolTip": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Repositorio\\IRepositorio\\ILicenciatario.cs",
+              "RelativeToolTip": "PruebaPDF\\Repositorio\\IRepositorio\\ILicenciatario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:50:30.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IIlustrador.cs",
+              "DocumentMoniker": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Repositorio\\IRepositorio\\IIlustrador.cs",
+              "RelativeDocumentMoniker": "PruebaPDF\\Repositorio\\IRepositorio\\IIlustrador.cs",
+              "ToolTip": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Repositorio\\IRepositorio\\IIlustrador.cs",
+              "RelativeToolTip": "PruebaPDF\\Repositorio\\IRepositorio\\IIlustrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:50:28.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IlustradorDePdf.cs",
+              "DocumentMoniker": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Repositorio\\IlustradorDePdf.cs",
+              "RelativeDocumentMoniker": "PruebaPDF\\Repositorio\\IlustradorDePdf.cs",
+              "ToolTip": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Repositorio\\IlustradorDePdf.cs",
+              "RelativeToolTip": "PruebaPDF\\Repositorio\\IlustradorDePdf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:50:26.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentoPdf.cs",
+              "DocumentMoniker": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Modelos\\DocumentoPdf.cs",
+              "RelativeDocumentMoniker": "PruebaPDF\\Modelos\\DocumentoPdf.cs",
+              "ToolTip": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Modelos\\DocumentoPdf.cs",
+              "RelativeToolTip": "PruebaPDF\\Modelos\\DocumentoPdf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:50:24.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaPDF\\Program.cs",
+              "ToolTip": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Program.cs",
+              "RelativeToolTip": "PruebaPDF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:48:50.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditorPdfController.cs",
+              "DocumentMoniker": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Controllers\\EditorPdfController.cs",
+              "RelativeDocumentMoniker": "PruebaPDF\\Controllers\\EditorPdfController.cs",
+              "ToolTip": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Controllers\\EditorPdfController.cs",
+              "RelativeToolTip": "PruebaPDF\\Controllers\\EditorPdfController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:24:23.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Modelos\\Response.cs",
+              "RelativeDocumentMoniker": "PruebaPDF\\Modelos\\Response.cs",
+              "ToolTip": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Modelos\\Response.cs",
+              "RelativeToolTip": "PruebaPDF\\Modelos\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:24:00.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditorHtmlController.cs",
+              "DocumentMoniker": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Controllers\\EditorHtmlController.cs",
+              "RelativeDocumentMoniker": "PruebaPDF\\Controllers\\EditorHtmlController.cs",
+              "ToolTip": "C:\\Users\\breppe_j\\Documents\\Proyectos\\PruebaPDF\\PruebaEdicionPDF\\PruebaPDF\\Controllers\\EditorHtmlController.cs",
+              "RelativeToolTip": "PruebaPDF\\Controllers\\EditorHtmlController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAowKIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:22:16.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
